@@ -1,0 +1,68 @@
+body{
+    
+
+    background-color: black;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+
+}
+
+div{
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+
+}
+.imagenes{
+    width: 1100px;
+    height: 300px;
+   
+
+    margin: auto;
+    
+}
+p{
+    color: white;
+    text-align: center;
+    margin-top: 120px;
+
+}
+
+/* .foto1{
+    height: 10vw;
+    width: 10vw;
+    max-height: 200px;
+    max-width: 200px;
+    min-height: 84px;
+    min-width: 84px;      
+
+}
+
+.foto2{
+    height: 10vw;
+    width: 10vw;
+    max-height: 200px;
+    max-width: 200px;
+    min-height: 84px;
+    min-width: 84px;
+    
+}
+.foto3{
+
+    height: 10vw;
+    width: 10vw;
+    max-height: 200px;
+    max-width: 200px;
+    min-height: 84px;
+    min-width: 84px;
+   
+} */
+
+
+.Administrar{
+
+    margin-left: 690px;
+}

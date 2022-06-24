@@ -1,0 +1,68 @@
+body{
+    background-image: url("fondoNetflix.jpg");
+    /* background-color: black; */
+} 
+
+
+img {
+    max-width: 150%;
+    max-height: 150%;
+   }
+
+.imagen-netflix{
+    width: 100px;
+    height: 100px;
+   
+}
+
+.usuario{
+    width: 480px;
+    height: 700px;
+    background-color: rgba(0, 0, 0, 0.87);
+    margin: auto;
+    margin-top: 50px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* align-items: flex-end; */
+   
+    /* align-items: center; */
+}
+.login-content{
+    
+    width: 380px;
+    height: 600px;
+}
+
+h1{   
+    color: white;
+    
+
+}
+input{
+    width: 380px;
+    height: 30px;
+    background-color: rgba(128, 128, 128, 0.333);
+    color: white;
+    border: 0;
+
+}
+
+.botoncito{
+
+    background-color: red;
+    
+    border-radius: 5px;
+    border-bottom: 0; 
+    border-color: rgba(0, 0, 0, 0.784);
+   
+    text-align: center;
+    
+    
+}
+
+label{
+
+    color: antiquewhite;
+}

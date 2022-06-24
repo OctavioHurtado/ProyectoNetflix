@@ -1,0 +1,37 @@
+
+
+body{
+    background-image: url("fondoNetflix.jpg");
+    
+} 
+
+#main-header {
+	
+
+	height: 80px;
+}	
+	#main-header a {
+		color: white;
+	}
+	
+
+
+    div {
+        float: left;
+    }
+
+        
+            div ul li {
+                display: inline-block;
+                line-height: 80px;
+            }
+                
+                div ul li a {
+                    display: block;
+                    padding: 0 10px;
+                    text-decoration: none;
+                }
+                
+                    div ul li a:hover {
+                        background: rgba(248, 7, 7, 0.397);
+                    }
